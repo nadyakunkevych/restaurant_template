@@ -1,0 +1,20 @@
+@media screen and (max-width: 400px) {
+    .menu {
+        display: none;
+    }
+}
+
+
+@media screen and (max-width: 370px) {
+    .mobile_button {
+        width: 60px;
+        height: 30px;
+        flex-direction: column;
+        row-gap: 10px;
+        background-color: #FF7400;
+    }
+
+}
+
+
+
