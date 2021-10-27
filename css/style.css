@@ -62,6 +62,7 @@ table {
   align-items: center;
 
 
+
 }
 .diamond {
   width: 100px;
@@ -132,7 +133,7 @@ table {
 .title {
   margin-top: 380px;
   align-items: center;
-  width: 500px;
+  max-width: 500px;
   margin-left: 30px;
 
 }
@@ -221,7 +222,24 @@ p {
   bottom: 50px;
   box-shadow: 10px 10px 40px 20px rgba(0, 0, 0, 0.1);
   text-align: center;
-
+  font-size: 26px;
+  line-height: 30px;
 }
+
+h4 {
+
+  font-size: 26px;
+  line-height: 30px;
+  color:  #BC9060;
+}
+
+span {
+  color: #656363;
+  font-size: 26px;
+  line-height: 30px;
+  position: relative;
+  top: 20px;
+}
+
 
 
